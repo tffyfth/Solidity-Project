@@ -48,7 +48,7 @@ contract MyToken {
 
 - Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
-- Once the contract is deployed, you can interact with it by calling the TokenName, TokenAbbrv, TotalSupply, Balances. Click the dropdown of mint and you can copy the sample address in the account and add a number for the value. Finally, click the "transact" button to execute and you will have the total amount of balances of your token.  You can do the same thing with burn. 
+- Once the contract is deployed, you can interact with it by calling the TokenName, TokenAbbrv, TotalSupply, Balances. Click the dropdown of mint and you can copy the sample address in the account and add a number for the value. Finally, click the "transact" button to execute and you will have the total amount of balances of your token.  You can do the same thing with burn function. 
 ## Authors
 
 Tiffany Faith Dalaya
