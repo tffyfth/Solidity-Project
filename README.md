@@ -14,7 +14,7 @@ This program is a contract named MyToken in Solidity. The contract has a public 
 
 - Once you are on the Remix website, create a folder  by clicking on the "folder" icon in the left-hand sidebar. Then create a new file and name it,  save the file with a .sol extension. Copy and paste the following code into the file:
 
-```javascript
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
