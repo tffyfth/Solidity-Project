@@ -56,4 +56,4 @@ Tiffany Faith Dalaya
 
 ## License
 
-This project is unlicense.
+This project is unlicensed.
